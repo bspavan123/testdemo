@@ -1,0 +1,7 @@
+//Pavan sir
+#include<stdio.h>
+int main()
+{
+	printf("Hello");
+
+}
